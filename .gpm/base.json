@@ -1,0 +1,8 @@
+{
+    "base_path": "/var/projects/buzz/buzz-intern-server/mailling/__services__/brevo/.gpm/base.json",
+    "gpm_path": "/var/projects/buzz/buzz-intern-server/mailling/__services__/brevo/.gpm",
+    "name": "dj-brevo",
+    "project_type": "module",
+    "repository_url": "https://github.com/px57/dj-brevo.git",
+    "root_path": "/var/projects/buzz/buzz-intern-server/mailling/__services__/brevo"
+}
